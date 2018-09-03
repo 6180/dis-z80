@@ -1,0 +1,7 @@
+[package]
+name = "dis-z80"
+version = "0.1.0"
+authors = ["eevee"]
+
+[dependencies]
+hex = "0.3.2"
